@@ -1,0 +1,1 @@
+//Escribe una función que determine si una cadena de texto es un palíndromo.
